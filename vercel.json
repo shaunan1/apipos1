@@ -14,7 +14,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "https://apipos1-j6vo.vercel.app/",
+        "APP_URL": "https://apipos1-j6vo-dcwhpj0l7-shaunan1s-projects.vercel.app/",
         "APP_KEY": "base64:L781P7mNtN+TdRM9eeRRXavyIHzfxwPC+QzXtcV1z2M=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
